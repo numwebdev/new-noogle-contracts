@@ -73,6 +73,15 @@ const initialState = {
             "email": "arpndas69@gmail.com",
             "address": "Barasat, WB, INDIA 🇮🇳",
             "desc": "The Bangali Hero"
+        },
+        ,
+        {
+            "id": 1598407029924,
+            "name": "Vishal",
+            "number": "7001959254",
+            "email": "vishal69@gmail.com",
+            "address": "Mumbai, Maharashtra, INDIA 🇮🇳",
+            "desc": "React JS Developer"
         }
     ],
     contact: null,
