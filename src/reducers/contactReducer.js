@@ -59,12 +59,29 @@ const initialState = {
             "desc": "The South Indian Hero"
         },
         {
+            "id": 1598404930641,
+            "name": "Ahtesham",
+            "number": "8777073545",
+            "email": "ahtesham@gmail.com",
+            "address": "Bhutan",
+            "desc": "The Hero",
+        },
+        {
             "id": 1598407029924,
             "name": "Arpan Das",
             "number": "9051798427",
             "email": "arpndas69@gmail.com",
             "address": "Barasat, WB, INDIA 🇮🇳",
             "desc": "The Bangali Hero"
+        },
+        ,
+        {
+            "id": 1598407029924,
+            "name": "Vishal",
+            "number": "7001959254",
+            "email": "vishal69@gmail.com",
+            "address": "Mumbai, Maharashtra, INDIA 🇮🇳",
+            "desc": "React JS Developer"
         }
     ],
     contact: null,
